@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dungmidside
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Nodejs - NestJS - MySQL
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me tele @dungmidside
+- 📫 Contect with me: telegram @dungmidside
 
 <!---
 dungmidside/dungmidside is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
