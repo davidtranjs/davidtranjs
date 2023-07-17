@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dungmidside
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Nodejs - NestJS - MySQL
-- 📫 Contect with me: telegram @dungmidside
+- 📫 Contect with me: email huudung096@gmail.com / telegram @dungmidside
 
 <!---
 dungmidside/dungmidside is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
