@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dungmidside
+- 👋 Hi, I’m David Tran
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Nodejs - NestJS - MySQL
-- 📫 Contect with me: email huudung096@gmail.com / telegram @dungmidside
+- 📫 Read my blogs at [davidtran.dev](https://davidtran.dev/blogs)
 
 <!---
 dungmidside/dungmidside is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
