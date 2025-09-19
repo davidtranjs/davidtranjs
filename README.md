@@ -1,6 +1,6 @@
-- 👋 Hi, I’m David Tran
-- 👀 I’m interested in Web development
-- 📫 Read my blogs at [davidtran.dev](https://davidtran.dev/blogs)
+- Hey! 👋 I'm David Tran, Software Engineer from 🇻🇳
+- I love solving problems and building products.
+- [davidtran.dev](https://davidtran.dev)
 
 <!---
 dungmidside/dungmidside is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
